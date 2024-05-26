@@ -1,0 +1,9 @@
+{
+    "NODE_ENV": "production",
+    "PORT": 9191,
+    "TOKEN_GENERATOR": "jwt",
+    "DB_NAME": "hiba",
+    "DB_PASSWORD": "HGF123rty456",
+    "LOGGER": "morgan",
+    "DB": "MONGODB"
+  }
